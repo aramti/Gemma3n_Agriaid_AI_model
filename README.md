@@ -1,8 +1,8 @@
-# AgriAid AI — Crop Recommendation & Plant Disease Assistant using Gemma 3n
+## 🌾🌾AgriAid AI — Crop Recommendation & Plant Disease Assistant using Gemma 3n
 
 This project fine-tunes Google DeepMind’s Gemma 3n large language model to act as an intelligent agriculture assistant. The model provides crop recommendations, farming advice, and plant disease diagnosis support based on soil, climate, and user queries.
 
-## Project Overview 🧠
+## Project Overview
 
 Large foundational models like Gemma 3n are capable of processing multimodal input (text + images) and generating useful outputs across domains. In this project, I fine-tuned the Gemma 3n model on agriculture-specific data to create an AI assistant that:
 
