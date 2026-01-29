@@ -1,0 +1,1 @@
+# Gemma3n_Agriaid_AI_model
