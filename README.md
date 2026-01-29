@@ -45,7 +45,7 @@ Here are sample prompts used to validate model behavior:
 
 ## Acknowledgements
 
-Google DeepMind — Gemma model
-Kaggle — Gemma Impact Challenge
-Hugging Face — Transformers & PEFT libraries
+- Google DeepMind — Gemma model
+- Kaggle — Gemma Impact Challenge
+- Hugging Face — Transformers & PEFT libraries
 
